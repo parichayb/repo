@@ -1,3 +1,1 @@
-this is to test
-updated
-updated locally by me
+This is git hub for parichay
