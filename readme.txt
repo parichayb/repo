@@ -1,1 +1,1 @@
-This is git hub for parichay
+This is java project
